@@ -3,7 +3,9 @@
 <template>
   <div class="main-container">
     <h1 class="main-title">Peder <span class="main-title-span">&</span> Cecilie</h1>
-    <h2 class="main-subtitle">12. July 2024 <span class="main-dot" /> Kjeller Gaard</h2>
+    <h2 class="main-subtitle">
+      <span class="main-subtitle-date">12. July 2024 </span><span class="main-dot" /> <span>Kjeller Gaard</span>
+    </h2>
     <h3 class="main-subtitle">Hold av datoen, mer informasjon kommer</h3>
   </div>
 </template>
@@ -27,9 +29,23 @@
   display: block;
 }
 
+.main-subtitle-date {
+  display: block;
+  margin-bottom: 0.1em;
+}
+.main-dot {
+  display: none;
+}
 @media (min-width: 600px) {
   .main-title-span {
     display: inline;
+  }
+
+  .main-subtitle-date {
+    display: inline;
+  }
+  .main-dot {
+    display: inline-block;
   }
 }
 </style>
