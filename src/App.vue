@@ -6,7 +6,7 @@
     <h2 class="main-subtitle">
       <span class="main-subtitle-date">12. July 2024 </span><span class="main-dot" /> <span>Kjeller Gaard</span>
     </h2>
-    <h3 class="main-subtitle">Hold av datoen, mer informasjon kommer</h3>
+    <h3 class="main-subtitle">Hold av datoen, mer informasjon om bryllupet kommer</h3>
   </div>
 </template>
 
