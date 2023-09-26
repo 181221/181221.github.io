@@ -5,15 +5,14 @@
 }
 
 :root {
-  font-family: Playfair Display, Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  font-family: Lato, Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  font-style: italic;
   line-height: 1.5;
   font-weight: 400;
   --morkerosa: #ffabab;
   --lyserosa: #fef2f4;
 
   color-scheme: light;
-  color: rgba(255, 255, 255, 0.87);
-  background-color: rgb(33, 26, 26, 0.71);
 
   font-synthesis: none;
   text-rendering: optimizeLegibility;
@@ -37,12 +36,16 @@ h1 {
   font-weight: 100;
   font-style: italic;
 }
+p {
+  font-size: larger;
+}
 
 h2 {
   font-size: 2.2em;
   line-height: 1.1;
   font-weight: 100;
   font-style: italic;
+  font-family: "Playfair Display";
 }
 
 h3 {
@@ -51,7 +54,8 @@ h3 {
 }
 
 #app {
-  max-width: 1280px;
-  margin: 0 auto;
+  width: 100%;
+  display: grid;
   text-align: center;
+  grid-template-rows: 400px auto auto auto auto;
 }
