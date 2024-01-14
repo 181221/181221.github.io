@@ -16,7 +16,14 @@ defineProps({
   padding: 20px;
 }
 .image-container img {
-  max-width: 400px;
+  max-width: 100%;
   border-radius: 4px;
+}
+
+@media (min-width: 768px) {
+  .image-container img {
+    max-width: 400px;
+    height: auto;
+  }
 }
 </style>
