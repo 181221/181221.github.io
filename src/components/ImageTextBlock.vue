@@ -11,8 +11,8 @@ defineProps({
     </div>
     <div class="text-container">
       <p>
-        Vi gleder oss til å dele denne spesielle dagen med deg, og håper du vil være med på å gjøre vår bryllupsfeiring
-        komplett.
+        Vi gleder oss til å dele denne spesielle dagen med dere, og håper dere vil være med på å gjøre vår
+        bryllupsfeiring til en uforglemmelig dag!
       </p>
     </div>
   </div>
@@ -40,5 +40,6 @@ defineProps({
   padding: 20px;
   font-size: larger;
   padding-top: 0;
+  color: var(--graa-tekst);
 }
 </style>

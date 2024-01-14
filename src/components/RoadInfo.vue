@@ -5,7 +5,7 @@
       <template v-slot:content>
         Viktig informasjon angående adressen
         <div class="line-break"></div>
-        <a class="roadlink" href="https://maps.app.goo.gl/yNYE3xu49nBjfV4s5" target="_blank"
+        <a class="link-main" href="https://maps.app.goo.gl/yNYE3xu49nBjfV4s5" target="_blank"
           >Johannes Nielsens vei 67, 2007 Kjeller
         </a>
         <div class="line-break"></div>
@@ -26,11 +26,5 @@ import ImageBlock from "./ImageBlock.vue";
 <style scoped>
 #image-block {
   background: none;
-}
-.roadlink {
-  text-decoration: none;
-}
-.line-break {
-  margin-bottom: 20px;
 }
 </style>
