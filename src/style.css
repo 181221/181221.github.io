@@ -10,7 +10,9 @@
   line-height: 1.5;
   font-weight: 400;
   --morkerosa: #ffabab;
+  --morkerose-shade: #FF1313;
   --lyserosa: #fef2f4;
+  --graa-tekst: #333333;
 
   color-scheme: light;
 
@@ -58,4 +60,13 @@ h3 {
   display: grid;
   text-align: center;
   grid-template-rows: 400px auto auto auto auto;
+}
+
+.link-main
+{
+  color: var(--morkerose-shade);
+}
+
+.line-break {
+  margin-bottom: 20px;
 }

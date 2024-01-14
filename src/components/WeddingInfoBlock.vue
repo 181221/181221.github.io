@@ -33,19 +33,34 @@
       <template v-slot:title>Overnatting</template>
       <template v-slot:content>
         Kjeller Gård har en avtale med Quality Hotel Olavsgaard som ligger 5 minutter med bil fra Kjeller Gård. De kan
-        tilby enkeltrom inkludert frokost for kr. 1341,- og dobbeltrom inkludert frokost for kr. 1701,-. Rommene kan
-        bookes ved å sende mail til booking@olavsgaard.no. Ved booking, informer gjerne om at det er i forbindelse med
-        bryllupet vårt den helgen. Det finnes også andre muligheter for overnatting for eksempel i Lillestrøm eller
-        Oslo.
+        tilby enkeltrom inkludert frokost for kr 1 341,- og dobbeltrom inkludert frokost for kr 1 701,-. Rommene kan
+        bookes ved å sende mail til
+        <a class="link-main" href="mail:to:booking@olavsgaard.no">Quality Hotel Olavsgaard</a>. Ved booking, informer
+        gjerne om at det er i forbindelse med bryllupet vårt den helgen. Det finnes også andre muligheter for
+        overnatting for eksempel i Lillestrøm eller Oslo.
       </template>
     </WeddingSection>
+
     <WeddingSection>
       <template v-slot:title>Gaveliste</template>
       <template v-slot:content>
         Vi ser frem til å dele vår spesielle dag med dere, og deres deltakelse er den største gaven for oss. For de som
-        ønsker å gi en fysisk gave, har vi registrert en gaveliste hos Illums. Samtidig setter vi også pris på økonomisk
-        støtte for å hjelpe oss med å realisere våre drømmer om en uforglemmelig bryllupsreise og feiring i Chile. Vi
-        ser frem til å skape minner sammen og er takknemlige for enhver form for gave. Takk for deres kjærlighet og
+        ønsker å gi en fysisk gave, har vi opprettet to gavelister – én hos
+        <a
+          class="link-main"
+          href="https://www.illumsbolighus.no/on/demandware.store/Sites-illums_bolighus_no-Site/nb_NO/GiftRegistry-ShowOthers?id=f1edcd6274d920b80e0debf154"
+          target="_blank"
+          >Illums Bolighus</a
+        >
+        og en annen hos
+        <a class="link-main" href="https://www.tilbords.no/bryllup/vis-liste/133640" target="_blank">Tilbords</a>
+        <div class="line-break"></div>
+        Samtidig verdsetter vi også økonomisk støtte for å hjelpe oss med å realisere våre drømmer om en uforglemmelig
+        bryllupsreise i Latin Amerika, etterfulgt av feiring i Chile. Ønsker du å bidra økonomisk, kan dette gjøres
+        gjennom
+        <a class="link-main" href="https://stor.stas.app/gave/peder-og-cecilie" target="_blank">Stas</a>
+        <div class="line-break"></div>
+        Vi ser frem til å skape minner sammen og er takknemlige for enhver form for gave. Takk for deres kjærlighet og
         støtte!
       </template>
     </WeddingSection>
