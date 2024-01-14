@@ -35,7 +35,7 @@
         Kjeller Gård har en avtale med Quality Hotel Olavsgaard som ligger 5 minutter med bil fra Kjeller Gård. De kan
         tilby enkeltrom inkludert frokost for kr 1 341,- og dobbeltrom inkludert frokost for kr 1 701,-. Rommene kan
         bookes ved å sende mail til
-        <a class="link-main" href="mail:to:booking@olavsgaard.no">Quality Hotel Olavsgaard</a>. Ved booking, informer
+        <a class="link-main" href="mailto:booking@olavsgaard.no">Quality Hotel Olavsgaard</a>. Ved booking, informer
         gjerne om at det er i forbindelse med bryllupet vårt den helgen. Det finnes også andre muligheter for
         overnatting for eksempel i Lillestrøm eller Oslo.
       </template>
