@@ -10,7 +10,10 @@ defineProps({
       <img :src="imageUrl" alt="Image" />
     </div>
     <div class="text-container">
-      <p>Vi gleder oss til å dele denne spesielle dagen med deg, og håper du vil være med på å gjøre vår bryllupsfeiring komplett.</p>
+      <p>
+        Vi gleder oss til å dele denne spesielle dagen med deg, og håper du vil være med på å gjøre vår bryllupsfeiring
+        komplett.
+      </p>
     </div>
   </div>
 </template>
