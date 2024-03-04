@@ -53,7 +53,7 @@
           >Illums Bolighus</a
         >
         og en annen hos
-        <a class="link-main" href="https://www.tilbords.no/bryllup/vis-liste/133640" target="_blank">Tilbords</a>
+        <a class="link-main" href="https://www.kitchn.no/bryllup/vis-liste/182129/" target="_blank">Kitchn</a>
         <div class="line-break"></div>
         Samtidig verdsetter vi også økonomisk støtte for å hjelpe oss med å realisere våre drømmer om en uforglemmelig
         bryllupsreise i Latin Amerika, etterfulgt av feiring i Chile. Ønsker du å bidra økonomisk, kan dette gjøres
